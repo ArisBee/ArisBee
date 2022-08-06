@@ -32,6 +32,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A cube, a quintillion dollars coin and the power of decimals](https://aristidebouix.cloud/en/2021/10/a-cube-a-quintillion-dollars-coin-and-the-power-of-decimals/index.html/)
+- [Managing identities and access in the Amazon Public Cloud](https://aristidebouix.cloud/en/2021/04/managing-identities-and-access-in-the-amazon-public-cloud/index.html/)
+- [Tor proxy 101](https://aristidebouix.cloud/en/2020/08/tor-proxy-101/index.html/)
+- [The risks of open-source software for corporate use](https://aristidebouix.cloud/en/2020/04/the-risks-of-open-source-software-for-corporate-use/index.html/)
+- [AWS Cloud metadata service abuse](https://aristidebouix.cloud/en/2020/03/aws-cloud-metadata-service-abuse/index.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://aristidebouix.com)
