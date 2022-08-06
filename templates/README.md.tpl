@@ -7,7 +7,7 @@
 
 ## I'm a Cybersecurity Engineer :wrench: and Entrepreneur :bar_chart:
 
-- 🔭 Check out my {About page][https://aristidebouix.cloud/en/about/]
+- 🔭 Check out my [About page][https://aristidebouix.cloud/en/about/]
 - 🌱 I’m currently growing a web auction business
 - 👯 I’m looking to collaborate with other DevOps and Cybersecurity Professionals
 - 🥅 2022 Goals: Learn more about K8S and GCP
