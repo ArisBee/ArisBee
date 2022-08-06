@@ -7,7 +7,7 @@
 
 ## I'm a Cybersecurity Engineer :wrench: and Entrepreneur :bar_chart:
 
-- 🔭 Check out my [About page][https://aristidebouix.cloud/en/about/]
+- 🔭 Check out my [About page](https://aristidebouix.cloud/en/about/)
 - 🌱 I’m currently growing a web auction business
 - 👯 I’m looking to collaborate with other DevOps and Cybersecurity Professionals
 - 🥅 2022 Goals: Learn more about K8S and GCP
@@ -26,6 +26,17 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/aristide-bouix#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aristide-bouix#gh-dark-mode-only)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://aristidebouix.com)
+
+<br />
 
 ---
 
