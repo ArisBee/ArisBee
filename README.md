@@ -2,11 +2,14 @@
 
 # Hi there 👋
 
+[![Website](https://img.shields.io/website?label=ArisBee&style=for-the-badge&url=https%3A%2F%2Faristidebouix.cloud)](https://aristidebouix.cloud)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ArisvdZ?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FArisBee&screen_name=ArisvdZ)
+
 ## I'm a Cybersecurity Engineer :wrench: and Entrepreneur :bar_chart:
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🔭 Check out my {About page][https://aristidebouix.cloud/en/about/]
 - 🌱 I’m currently growing a web auction business
-- 👯 I’m looking to collaborate with other cybersecurity professionals
+- 👯 I’m looking to collaborate with other DevOps and Cybersecurity Professionals
 - 🥅 2022 Goals: Learn more about K8S and GCP
 - ⚡ Fun fact: I love to work from 🇰🇷
 
