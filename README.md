@@ -55,7 +55,7 @@
 #### ⭐ Latest repositories I starred
 
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave - 4506 stars
-- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates - 136711 stars
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates - 136713 stars
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes - 2585 stars
 - [LanikSJ/dfimage](https://github.com/LanikSJ/dfimage) - Reverse-engineer a Dockerfile from a Docker image. - 194 stars
 - [omaidf/PrismX](https://github.com/omaidf/PrismX) - Cloud Security Dashboard for AWS - based on ScoutSuite - 62 stars
