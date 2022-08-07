@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-[![Website](https://img.shields.io/website?label=ArisBee&style=for-the-badge&url=https%3A%2F%2Faristidebouix.cloud)](https://aristidebouix.cloud)
+[![Website](https://img.shields.io/website?label=Aristidebouix.cloud&style=for-the-badge&url=https%3A%2F%2Faristidebouix.cloud)](https://aristidebouix.cloud)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArisvdZ?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FArisBee&screen_name=ArisvdZ)
 
 ## I'm a Cybersecurity Engineer :wrench: and Entrepreneur :bar_chart:
