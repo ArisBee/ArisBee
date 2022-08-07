@@ -1,6 +1,7 @@
 name: readme-scribe
 
 on:
+  workflow_dispatch:
   push:
   schedule:
     - cron: "0 */1 * * *"
@@ -8,17 +9,16 @@ on:
 jobs:
   readme-scribe:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@master
 
-      - uses: muesli/readme-scribe@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+      - uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
       - name: replace placeholder for badge tag
         uses: jacobtomlinson/gha-find-replace@v2
         with:
