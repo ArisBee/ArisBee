@@ -15,10 +15,9 @@ jobs:
 
       - uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948
         with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           template: "templates/README.md.tpl"
           writeTo: "README.md"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
       - name: replace placeholder for badge tag
         uses: jacobtomlinson/gha-find-replace@v2
         with:
@@ -36,9 +35,8 @@ jobs:
             <!-- BLOG-POST-LIST:END -->
           include: README.md
       - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           commit_message: Update generated README
           branch: main
           commit_user_name: readme-scribe 🤖
