@@ -1,4 +1,4 @@
-name: Update README
+name: readme-scribe
 
 on:
   push:
@@ -6,21 +6,39 @@ on:
     - cron: "0 */1 * * *"
 
 jobs:
-  markscribe:
+  readme-scribe:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      - name: Checkout
+        uses: actions/checkout@master
 
       - uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
           template: "templates/README.md.tpl"
           writeTo: "README.md"
-
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: replace placeholder for badge tag
+        uses: jacobtomlinson/gha-find-replace@v2
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          find: "badges_tag"
+          replace: |
+            <!--START_SECTION:badges-->
+            <!--END_SECTION:badges-->
+          include: README.md
+      - name: replace placeholder for blogpost tag
+        uses: jacobtomlinson/gha-find-replace@v2
+        with:
+          find: "blogpost_tag"
+          replace: |
+            <!-- BLOG-POST-LIST:START -->
+            <!-- BLOG-POST-LIST:END -->
+          include: README.md
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
           commit_message: Update generated README
           branch: main
           commit_user_name: readme-scribe 🤖

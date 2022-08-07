@@ -4,15 +4,17 @@ on:
   schedule:
     # Runs at 0am UTC every day
     - cron: "0 0 * * *"
+  workflow_dispatch:
+
 jobs:
   update-readme:
-    name: Update Readme with badges
+    name: Update Readme with badges from credly
     runs-on: ubuntu-latest
     steps:
-      - name: Badges - Readme
+      - name: Update Readme with badges from credly
         uses: pemtajo/badge-readme@main
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MESSAGE: "Add a cool new badge"
           CREDLY_USER: aristide-bouix
           CREDLY_SORT: POPULAR

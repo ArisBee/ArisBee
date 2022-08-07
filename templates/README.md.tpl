@@ -36,8 +36,7 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+blogpost_tag
 
 ➡️ [more blog posts...](https://aristidebouix.com)
 
@@ -76,8 +75,7 @@
 
 ## 🎓 Certificates & Trainings
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+badges_tag
 
 <br />
 
