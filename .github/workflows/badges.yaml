@@ -12,7 +12,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          GITHUB_TOKEN: ${{ github.token }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MESSAGE: "Add a cool new badge"
           CREDLY_USER: aristide-bouix
           CREDLY_SORT: POPULAR
