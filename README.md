@@ -13,8 +13,6 @@
 - 🥅 2022 Goals: Learn more about K8S and GCP
 - ⚡ Fun fact: I love to work from 🇰🇷
 
-## <br />
-
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://aristidebouix.cloud#gh-light-mode-only)
@@ -38,6 +36,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
 ➡️ [more blog posts...](https://aristidebouix.com)
 
 ---
@@ -46,11 +45,12 @@
 
 #### 👷 I'm currently working on
 
-- [ArisBee/django-keyless-signing](https://github.com/ArisBee/django-keyless-signing) - (3 days ago)
-- [ArisBee/scheduled_tweet](https://github.com/ArisBee/scheduled_tweet) - (2 months ago)
+- [ArisBee/django-keyless-signing](https://github.com/ArisBee/django-keyless-signing) -  (3 days ago)
+- [ArisBee/scheduled_tweet](https://github.com/ArisBee/scheduled_tweet) -  (2 months ago)
 - [ArisBee/aristidebouix.cloud](https://github.com/ArisBee/aristidebouix.cloud) - Blog repository (8 months ago)
 
 #### 🚀 Latest releases I contributed to
+
 
 #### ⭐ Latest repositories I starred
 
@@ -67,16 +67,16 @@
 
 #### 👥 Latest follower
 
-- [plutosmachine](https://github.com/plutosmachine) -
+- [plutosmachine](https://github.com/plutosmachine) - 
 - [haidaraM](https://github.com/haidaraM) - Mohamed El Mouctar Haidara
-- [Cybernewbies](https://github.com/Cybernewbies) -
+- [Cybernewbies](https://github.com/Cybernewbies) - 
 
 #### 👨‍💻 Repositories I created recently
 
 - [ArisBee/django-keyless-signing](https://github.com/ArisBee/django-keyless-signing)
 - [ArisBee/scheduled_tweet](https://github.com/ArisBee/scheduled_tweet)
 - [ArisBee/http-proxy](https://github.com/ArisBee/http-proxy) - A simple expressjs proxy streaming to localhost on port 3000
-- [ArisBee/meetups](https://github.com/ArisBee/meetups) - All slides from my meetup talks
+- [ArisBee/meetups](https://github.com/ArisBee/meetups) - All slides from my meetup talks 
 - [ArisBee/aristidebouix.cloud](https://github.com/ArisBee/aristidebouix.cloud) - Blog repository
 
 <br />
@@ -87,6 +87,7 @@
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+
 
 <br />
 
@@ -117,3 +118,5 @@
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ArisBee)
 [![GitHub followers](https://img.shields.io/github/followers/ArisBee.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ArisBee?tab=followers)
+
+
