@@ -55,14 +55,14 @@
 #### ⭐ Latest repositories I starred
 
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave - 4507 stars
-- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates - 136707 stars
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates - 136709 stars
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes - 2585 stars
 - [LanikSJ/dfimage](https://github.com/LanikSJ/dfimage) - Reverse-engineer a Dockerfile from a Docker image. - 194 stars
 - [omaidf/PrismX](https://github.com/omaidf/PrismX) - Cloud Security Dashboard for AWS - based on ScoutSuite - 62 stars
 - [smallstep/autocert](https://github.com/smallstep/autocert) - ⚓ A kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers - 501 stars
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar - 11974 stars
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar - 11978 stars
 - [fidelity/kconnect](https://github.com/fidelity/kconnect) - Kubernetes Connection Manager CLI - 140 stars
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures - 25332 stars
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures - 25333 stars
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source - 155 stars
 
 #### 👥 Latest follower
