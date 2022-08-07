@@ -13,9 +13,6 @@
 - 🥅 2022 Goals: Learn more about K8S and GCP
 - ⚡ Fun fact: I love to work from 🇰🇷
 
-<br />
----
-
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://aristidebouix.cloud#gh-light-mode-only)
@@ -101,6 +98,8 @@ badges_tag
 ## ⚡ GitHub Stats
 
 ![Aris` GitHub stats](https://github-readme-stats.vercel.app/api?username=ArisBee&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArisBee&show_icons=true&theme=radical)
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ArisBee)
 [![GitHub followers](https://img.shields.io/github/followers/ArisBee.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ArisBee?tab=followers)
