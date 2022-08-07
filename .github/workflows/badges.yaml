@@ -12,8 +12,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
           COMMIT_MESSAGE: "Add a cool new badge"
           CREDLY_USER: aristide-bouix
           CREDLY_SORT: POPULAR
-
