@@ -2,8 +2,8 @@ name: readme-scribe
 
 on:
   workflow_dispatch:
-  push:
   schedule:
+    # Runs on the 10th each quarter
     - cron: "0 0 10 */3 *"
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@master
+        uses: actions/checkout@v3
       - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}

@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
+    # Runs on the 10th of each month
     - cron: "0 0 10 */1 *"
   workflow_dispatch:
 
@@ -10,7 +10,7 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://aristidebouix.cloud/en/index.xml"
