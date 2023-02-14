@@ -19,7 +19,7 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
       - name: replace placeholder for badge tag
-        uses: jacobtomlinson/gha-find-replace@v2
+        uses: jacobtomlinson/gha-find-replace@v3
         with:
           find: "badges_tag"
           replace: |
@@ -27,7 +27,7 @@ jobs:
             <!--END_SECTION:badges-->
           include: README.md
       - name: replace placeholder for blogpost tag
-        uses: jacobtomlinson/gha-find-replace@v2
+        uses: jacobtomlinson/gha-find-replace@v3
         with:
           find: "blogpost_tag"
           replace: |
