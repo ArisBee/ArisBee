@@ -10,7 +10,7 @@
 - 🔭 Check out my [About page](https://aristidebouix.cloud/en/about/)
 - 🌱 I’m currently growing a web auction business
 - 👯 I’m looking to collaborate with other DevOps and Cybersecurity Professionals
-- 🥅 2022 Goals: Learn more about K8S and GCP
+- 🥅 2023 Goals: Learn more about K8S and GCP
 - ⚡ Fun fact: I love to work from 🇰🇷
 
 ### Connect with me:
@@ -26,6 +26,9 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/aristide-bouix#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aristide-bouix#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/arisbcollection/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/arisbcollection/#gh-dark-mode-only)
 
 <br />
 
