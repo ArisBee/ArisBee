@@ -37,11 +37,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Orca CAB 2022](https://aristidebouix.cloud/en/2023/02/orca-cab-2022/index.html/)
 - [Migrating a static Hugo blog to AWS Amplify](https://aristidebouix.cloud/en/2021/11/migrating-a-static-hugo-blog-to-aws-amplify/index.html/)
 - [A cube, a quintillion dollars coin and the power of decimals](https://aristidebouix.cloud/en/2021/10/a-cube-a-quintillion-dollars-coin-and-the-power-of-decimals/index.html/)
 - [Managing identities and access in the Amazon Public Cloud](https://aristidebouix.cloud/en/2021/04/managing-identities-and-access-in-the-amazon-public-cloud/index.html/)
 - [Tor proxy 101](https://aristidebouix.cloud/en/2020/08/tor-proxy-101/index.html/)
-- [The risks of open-source software for corporate use](https://aristidebouix.cloud/en/2020/04/the-risks-of-open-source-software-for-corporate-use/index.html/)
 <!-- BLOG-POST-LIST:END -->
 
 
