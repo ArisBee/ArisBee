@@ -37,11 +37,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Orca CAB 2022](https://aristidebouix.cloud/en/2023/02/orca-cab-2022/index.html/)
-- [Migrating a static Hugo blog to AWS Amplify](https://aristidebouix.cloud/en/2021/11/migrating-a-static-hugo-blog-to-aws-amplify/index.html/)
-- [A cube, a quintillion dollars coin and the power of decimals](https://aristidebouix.cloud/en/2021/10/a-cube-a-quintillion-dollars-coin-and-the-power-of-decimals/index.html/)
-- [Managing identities and access in the Amazon Public Cloud](https://aristidebouix.cloud/en/2021/04/managing-identities-and-access-in-the-amazon-public-cloud/index.html/)
-- [Tor proxy 101](https://aristidebouix.cloud/en/2020/08/tor-proxy-101/index.html/)
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -53,28 +48,30 @@
 
 #### 👷 I'm currently working on
 
-- [ArisBee/aristidebouix.cloud](https://github.com/ArisBee/aristidebouix.cloud) - Blog repository (1 month ago)
-- [ArisBee/scheduled_tweet](https://github.com/ArisBee/scheduled_tweet) -  (4 months ago)
-- [ArisBee/django-keyless-signing](https://github.com/ArisBee/django-keyless-signing) -  (8 months ago)
+- [ArisBee/meetups](https://github.com/ArisBee/meetups) - All slides from my meetup talks  (1 week ago)
+- [ArisBee/aristidebouix.cloud](https://github.com/ArisBee/aristidebouix.cloud) - Blog repository (4 months ago)
+- [ArisBee/scheduled_tweet](https://github.com/ArisBee/scheduled_tweet) -  (7 months ago)
+- [ArisBee/django-keyless-signing](https://github.com/ArisBee/django-keyless-signing) -  (11 months ago)
 
 #### 🚀 Latest releases I contributed to
 
 
 #### ⭐ Latest repositories I starred
 
-- [pivotal/LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project&#39;s dependencies. - 1586 stars
-- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave - 5874 stars
-- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates - 146625 stars
-- [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes - 2588 stars
-- [LanikSJ/dfimage](https://github.com/LanikSJ/dfimage) - Reverse-engineer a Dockerfile from a Docker image. - 238 stars
-- [omaidf/PrismX](https://github.com/omaidf/PrismX) - Cloud Security Dashboard for AWS - based on ScoutSuite - 68 stars
-- [smallstep/autocert](https://github.com/smallstep/autocert) - ⚓ A kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers - 576 stars
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar - 15688 stars
-- [fidelity/kconnect](https://github.com/fidelity/kconnect) - Kubernetes Connection Manager CLI - 171 stars
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures - 28707 stars
+- [pivotal/LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project&#39;s dependencies. - 1609 stars
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave - 6024 stars
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates - 149551 stars
+- [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes - 2590 stars
+- [LanikSJ/dfimage](https://github.com/LanikSJ/dfimage) - Reverse-engineer a Dockerfile from a Docker image. - 252 stars
+- [omaidf/PrismX](https://github.com/omaidf/PrismX) - Cloud Security Dashboard for AWS - based on ScoutSuite - 71 stars
+- [smallstep/autocert](https://github.com/smallstep/autocert) - ⚓ A kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers - 602 stars
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar - 16916 stars
+- [fidelity/kconnect](https://github.com/fidelity/kconnect) - Kubernetes Connection Manager CLI - 177 stars
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures - 30191 stars
 
 #### 👥 Latest follower
 
+- [Weldhappy](https://github.com/Weldhappy) - Ågent
 - [plutosmachine](https://github.com/plutosmachine) - 
 - [haidaraM](https://github.com/haidaraM) - Mohamed El Mouctar Haidara
 - [Cybernewbies](https://github.com/Cybernewbies) - 
@@ -94,17 +91,6 @@
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/88e53d73-5b1a-4cfc-9b14-5da69f697494 "AWS Certified Solutions Architect – Associate")
-[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/c6763341-1723-42f6-b2e1-d094b7c520b7 "AWS Certified Developer – Associate")
-[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/fc6a13b6-5a10-45eb-8510-0cce1e48af08 "AWS Certified Solutions Architect – Professional")
-[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/3f027601-9447-465b-8a87-0cce67a74c1a "AWS Certified SysOps Administrator – Associate")
-[![Microsoft Certified: Azure Security Engineer Associate](https://images.credly.com/size/110x110/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png)](http://www.credly.com/badges/619dd0cc-0520-4d64-8769-1834f39065da "Microsoft Certified: Azure Security Engineer Associate")
-[![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)](http://www.credly.com/badges/df592773-1b0c-4fae-b431-7b847b55b365 "AWS Certified Security – Specialty")
-[![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/fbab5d0d-564b-4dd2-a43f-4bf920c083ce "AWS Certified DevOps Engineer – Professional")
-[![Microsoft 365 Certified: Security Administrator Associate](https://images.credly.com/size/110x110/images/e1b12077-7be7-493a-8b7a-afa6e58182ce/microsoft365-security-administrator-associate-600x600.png)](http://www.credly.com/badges/48257bc8-894c-4f38-8166-68b4ca403606 "Microsoft 365 Certified: Security Administrator Associate")
-[![AWS Certified Advanced Networking – Specialty](https://images.credly.com/size/110x110/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png)](http://www.credly.com/badges/ba4bf7c4-1259-40ae-85d9-297f5cceda83 "AWS Certified Advanced Networking – Specialty")
-[![Certificate of Cloud Security Knowledge v.4](https://images.credly.com/size/110x110/images/25ba8143-ac0a-413c-8c66-01c9edc4a80f/CCSK-v4-Credly-badge.png)](http://www.credly.com/badges/54fc19a6-b9f2-4328-bd8c-125831011be7 "Certificate of Cloud Security Knowledge v.4")
-[![LFD121: Developing Secure Software](https://images.credly.com/size/110x110/images/5a16ec87-6eb4-4c6e-8843-60b6e8583735/image.png)](http://www.credly.com/badges/6a902f18-53dd-4030-bccc-57278fa58a45 "LFD121: Developing Secure Software")
 <!--END_SECTION:badges-->
 
 
