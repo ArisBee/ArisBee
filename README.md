@@ -10,7 +10,7 @@
 - 🔭 Check out my [About page](https://aristidebouix.cloud/en/about/)
 - 🌱 I’m currently growing a web auction business
 - 👯 I’m looking to collaborate with other Investors and Entrepreneurs
-- 🥅 2023 Goals: Clearing my EMBA
+- 🥅 2024 Goals: Clearing my EMBA
 - ⚡ Fun fact: I love to work from 🇰🇷
 
 ### Connect with me:
