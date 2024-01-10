@@ -10,7 +10,7 @@
 - 🔭 Check out my [About page](https://aristidebouix.cloud/en/about/)
 - 🌱 I’m currently growing a web auction business
 - 👯 I’m looking to collaborate with other DevOps and Cybersecurity Professionals
-- 🥅 2023 Goals: Learn more about K8S and GCP
+- 🥅 2024 Goals: Excel at my EMBA studies
 - ⚡ Fun fact: I love to work from 🇰🇷
 
 ### Connect with me:
