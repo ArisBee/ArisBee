@@ -37,6 +37,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Embarking on an EMBA Journey at HEC](https://aristidebouix.cloud/en/2024/01/embarking-on-an-emba-journey-at-hec/index.html/)
+- [Catawiki’s DevSecOps journey](https://aristidebouix.cloud/en/2023/07/catawikis-devsecops-journey/index.html/)
+- [Orca CAB 2022](https://aristidebouix.cloud/en/2023/02/orca-cab-2022/index.html/)
+- [Migrating a static Hugo blog to AWS Amplify](https://aristidebouix.cloud/en/2021/11/migrating-a-static-hugo-blog-to-aws-amplify/index.html/)
+- [A cube, a quintillion dollars coin and the power of decimals](https://aristidebouix.cloud/en/2021/10/a-cube-a-quintillion-dollars-coin-and-the-power-of-decimals/index.html/)
 <!-- BLOG-POST-LIST:END -->
 
 
