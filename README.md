@@ -102,8 +102,8 @@
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/fbab5d0d-564b-4dd2-a43f-4bf920c083ce "AWS Certified DevOps Engineer – Professional")
 [![Microsoft 365 Certified: Security Administrator Associate*](https://images.credly.com/size/110x110/images/e1b12077-7be7-493a-8b7a-afa6e58182ce/microsoft365-security-administrator-associate-600x600.png)](http://www.credly.com/badges/48257bc8-894c-4f38-8166-68b4ca403606 "Microsoft 365 Certified: Security Administrator Associate*")
 [![AWS Certified Advanced Networking – Specialty](https://images.credly.com/size/110x110/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png)](http://www.credly.com/badges/ba4bf7c4-1259-40ae-85d9-297f5cceda83 "AWS Certified Advanced Networking – Specialty")
-[![Certificate of Cloud Security Knowledge v.4](https://images.credly.com/size/110x110/images/25ba8143-ac0a-413c-8c66-01c9edc4a80f/CCSK-v4-Credly-badge.png)](http://www.credly.com/badges/54fc19a6-b9f2-4328-bd8c-125831011be7 "Certificate of Cloud Security Knowledge v.4")
-[![LFD121: Developing Secure Software](https://images.credly.com/size/110x110/images/5a16ec87-6eb4-4c6e-8843-60b6e8583735/image.png)](http://www.credly.com/badges/6a902f18-53dd-4030-bccc-57278fa58a45 "LFD121: Developing Secure Software")
+[![Certificate of Cloud Security Knowledge v.4](https://images.credly.com/size/110x110/images/7495098d-c8c3-41a8-a81a-772cdc7e6a95/image.png)](http://www.credly.com/badges/54fc19a6-b9f2-4328-bd8c-125831011be7 "Certificate of Cloud Security Knowledge v.4")
+[![LFD121: Developing Secure Software](https://images.credly.com/size/110x110/images/69629170-8946-4168-aa1d-dff502e18683/image.png)](http://www.credly.com/badges/6a902f18-53dd-4030-bccc-57278fa58a45 "LFD121: Developing Secure Software")
 <!--END_SECTION:badges-->
 
 
