@@ -37,11 +37,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Timeless Lessons from Daegu: A Journey of Modesty and Passion](https://aristidebouix.cloud/en/2024/08/timeless-lessons-from-daegu-a-journey-of-modesty-and-passion/index.html/)
-- [My First Day at HEC&#39;s Executive MBA: A Blend of History, Strategy, and Networking](https://aristidebouix.cloud/en/2024/02/my-first-day-at-hecs-executive-mba-a-blend-of-history-strategy-and-networking/index.html/)
-- [Embarking on an EMBA Journey at HEC](https://aristidebouix.cloud/en/2024/01/embarking-on-an-emba-journey-at-hec/index.html/)
-- [Catawiki’s DevSecOps journey](https://aristidebouix.cloud/en/2023/07/catawikis-devsecops-journey/index.html/)
-- [Orca CAB 2022](https://aristidebouix.cloud/en/2023/02/orca-cab-2022/index.html/)
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -53,24 +48,26 @@
 
 #### 👷 I'm currently working on
 
-- [ArisBee/aristidebouix.cloud](https://github.com/ArisBee/aristidebouix.cloud) - Blog repository (3 months ago)
-- [ArisBee/meetups](https://github.com/ArisBee/meetups) - All slides from my meetup talks  (3 months ago)
+- [catawiki/selligent-rb](https://github.com/catawiki/selligent-rb) - Selligent REST API client (3 months ago)
+- [ArisBee/aristidebouix.cloud](https://github.com/ArisBee/aristidebouix.cloud) - Blog repository (6 months ago)
+- [ArisBee/meetups](https://github.com/ArisBee/meetups) - All slides from my meetup talks  (6 months ago)
 
 #### 🚀 Latest releases I contributed to
 
+- [catawiki/selligent-rb](https://github.com/catawiki/selligent-rb) ([v1.0.2](https://github.com/catawiki/selligent-rb/releases/tag/v1.0.2), 3 months ago) - Selligent REST API client
 
 #### ⭐ Latest repositories I starred
 
-- [hexive/sunpaper](https://github.com/hexive/sunpaper) - Dynamic wallpaper changes based on the sun. - 206 stars
-- [GoogleCloudPlatform/jit-groups](https://github.com/GoogleCloudPlatform/jit-groups) - JIT Groups is an open source application that lets you implement secure, self-service access management for Google Cloud using groups. - 265 stars
-- [pivotal/LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project&#39;s dependencies. - 1751 stars
-- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave - 7448 stars
-- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates - 165608 stars
-- [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes - 2602 stars
-- [LanikSJ/dfimage](https://github.com/LanikSJ/dfimage) - Reverse-engineer a Dockerfile from a Docker image. - 379 stars
-- [smallstep/autocert](https://github.com/smallstep/autocert) - ⚓ A kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers - 729 stars
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar - 30602 stars
-- [fidelity/kconnect](https://github.com/fidelity/kconnect) - Kubernetes Connection Manager CLI - 224 stars
+- [hexive/sunpaper](https://github.com/hexive/sunpaper) - Dynamic wallpaper changes based on the sun. - 213 stars
+- [GoogleCloudPlatform/jit-groups](https://github.com/GoogleCloudPlatform/jit-groups) - JIT Groups is an open source application that lets you implement secure, self-service access management for Google Cloud using groups. - 270 stars
+- [pivotal/LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project&#39;s dependencies. - 1766 stars
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave - 7578 stars
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates - 167906 stars
+- [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes - 2595 stars
+- [LanikSJ/dfimage](https://github.com/LanikSJ/dfimage) - Reverse-engineer a Dockerfile from a Docker image. - 396 stars
+- [smallstep/autocert](https://github.com/smallstep/autocert) - ⚓ A kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers - 746 stars
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar - 32346 stars
+- [fidelity/kconnect](https://github.com/fidelity/kconnect) - Kubernetes Connection Manager CLI - 229 stars
 
 #### 👥 Latest follower
 
@@ -93,18 +90,6 @@
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/88e53d73-5b1a-4cfc-9b14-5da69f697494 "AWS Certified Solutions Architect – Associate")
-[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/c6763341-1723-42f6-b2e1-d094b7c520b7 "AWS Certified Developer – Associate")
-[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/fc6a13b6-5a10-45eb-8510-0cce1e48af08 "AWS Certified Solutions Architect – Professional")
-[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/3f027601-9447-465b-8a87-0cce67a74c1a "AWS Certified SysOps Administrator – Associate")
-[![Certified Information Security Manager® (CISM)](https://images.credly.com/size/110x110/images/d0891dee-6360-496c-9981-40652523b502/dbdea6794f1a6bbcc18d90eea923421aac7df6b5.png)](http://www.credly.com/badges/587f0941-d0de-4280-9781-e0b81cb97980 "Certified Information Security Manager® (CISM)")
-[![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)](http://www.credly.com/badges/df592773-1b0c-4fae-b431-7b847b55b365 "AWS Certified Security – Specialty")
-[![Microsoft Certified: Azure Security Engineer Associate](https://images.credly.com/size/110x110/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png)](http://www.credly.com/badges/619dd0cc-0520-4d64-8769-1834f39065da "Microsoft Certified: Azure Security Engineer Associate")
-[![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/fbab5d0d-564b-4dd2-a43f-4bf920c083ce "AWS Certified DevOps Engineer – Professional")
-[![Microsoft 365 Certified: Security Administrator Associate*](https://images.credly.com/size/110x110/images/e1b12077-7be7-493a-8b7a-afa6e58182ce/microsoft365-security-administrator-associate-600x600.png)](http://www.credly.com/badges/48257bc8-894c-4f38-8166-68b4ca403606 "Microsoft 365 Certified: Security Administrator Associate*")
-[![AWS Certified Advanced Networking – Specialty](https://images.credly.com/size/110x110/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png)](http://www.credly.com/badges/ba4bf7c4-1259-40ae-85d9-297f5cceda83 "AWS Certified Advanced Networking – Specialty")
-[![Certificate of Cloud Security Knowledge v.4](https://images.credly.com/size/110x110/images/7495098d-c8c3-41a8-a81a-772cdc7e6a95/image.png)](http://www.credly.com/badges/54fc19a6-b9f2-4328-bd8c-125831011be7 "Certificate of Cloud Security Knowledge v.4")
-[![LFD121: Developing Secure Software](https://images.credly.com/size/110x110/images/ee986187-6637-45e9-8184-8382dc117432/blob)](http://www.credly.com/badges/6a902f18-53dd-4030-bccc-57278fa58a45 "LFD121: Developing Secure Software")
 <!--END_SECTION:badges-->
 
 
