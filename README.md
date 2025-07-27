@@ -1,5 +1,3 @@
-![hello](https://media2.giphy.com/media/VOKZKxKAQADI7rdsPu/giphy.gif)
-
 # Hi there 👋
 
 [![Website](https://img.shields.io/website?label=Aristidebouix.cloud&style=for-the-badge&url=https%3A%2F%2Faristidebouix.cloud)](https://aristidebouix.cloud)
@@ -10,7 +8,7 @@
 - 🔭 Check out my [About page](https://aristidebouix.cloud/en/about/)
 - 🌱 I’m currently ready for new challenges
 - 👯 I’m looking to collaborate with other Cybersecurity Leaders
-- 🥅 2024 Goals: Excel at my EMBA studies
+- 🥅 2025 Goals: Kick start my own venture
 - ⚡ Fun fact: I love to work from 🇰🇷
 
 ### Connect with me:
