@@ -93,6 +93,7 @@
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/db2cf649-2b21-4174-b2f2-584e26acba8d" title="Professional Cloud Architect Certification"><img src="https://images.credly.com/size/80x80/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="Professional Cloud Architect Certification" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/587f0941-d0de-4280-9781-e0b81cb97980" title="Certified Information Security Manager® (CISM)"><img src="https://images.credly.com/size/80x80/images/d0891dee-6360-496c-9981-40652523b502/dbdea6794f1a6bbcc18d90eea923421aac7df6b5.png" alt="Certified Information Security Manager® (CISM)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/6a902f18-53dd-4030-bccc-57278fa58a45" title="LFD121: Developing Secure Software"><img src="https://images.credly.com/size/80x80/images/ee986187-6637-45e9-8184-8382dc117432/blob" alt="LFD121: Developing Secure Software" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/54fc19a6-b9f2-4328-bd8c-125831011be7" title="Certificate of Cloud Security Knowledge v.4"><img src="https://images.credly.com/size/80x80/images/7495098d-c8c3-41a8-a81a-772cdc7e6a95/image.png" alt="Certificate of Cloud Security Knowledge v.4" width="80" height="80"></a>
