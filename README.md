@@ -37,6 +37,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Timeless Lessons from Daegu: A Journey of Modesty and Passion](https://aristidebouix.cloud/en/2024/08/timeless-lessons-from-daegu-a-journey-of-modesty-and-passion/index.html/)
+- [My First Day at HEC&#39;s Executive MBA: A Blend of History, Strategy, and Networking](https://aristidebouix.cloud/en/2024/02/my-first-day-at-hecs-executive-mba-a-blend-of-history-strategy-and-networking/index.html/)
+- [Embarking on an EMBA Journey at HEC](https://aristidebouix.cloud/en/2024/01/embarking-on-an-emba-journey-at-hec/index.html/)
+- [Catawiki’s DevSecOps journey](https://aristidebouix.cloud/en/2023/07/catawikis-devsecops-journey/index.html/)
+- [Orca CAB 2022](https://aristidebouix.cloud/en/2023/02/orca-cab-2022/index.html/)
 <!-- BLOG-POST-LIST:END -->
 
 
