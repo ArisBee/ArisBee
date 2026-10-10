@@ -91,6 +91,7 @@
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
+[![Certificate of Competence in Zero Trust (CCZT)](https://images.credly.com/size/80x80/images/2233a52c-540e-496f-af8b-f88447ae8c91/image.png)](https://www.credly.com/badges/1cb28046-5a5a-4fba-8eae-bd4134abbec4)
 [![Professional Cloud Architect Certification](https://images.credly.com/size/80x80/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png)](https://www.credly.com/badges/db2cf649-2b21-4174-b2f2-584e26acba8d)
 [![Certified Information Security Manager® (CISM)](https://images.credly.com/size/80x80/images/d0891dee-6360-496c-9981-40652523b502/dbdea6794f1a6bbcc18d90eea923421aac7df6b5.png)](https://www.credly.com/badges/587f0941-d0de-4280-9781-e0b81cb97980)
 [![LFD121: Developing Secure Software](https://images.credly.com/size/80x80/images/ee986187-6637-45e9-8184-8382dc117432/blob)](https://www.credly.com/badges/6a902f18-53dd-4030-bccc-57278fa58a45)
